@@ -87,5 +87,6 @@ public class AplicatieAngajat {
                     System.out.println("Optiune invalida");
             }
         }
+        scanner.close();
     }
 }
