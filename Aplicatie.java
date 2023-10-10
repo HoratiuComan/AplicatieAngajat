@@ -18,7 +18,7 @@ public class AplicatieAngajat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Cate angajati doriti sa introduceti? ");
+        System.out.print("Cati angajati doriti sa introduceti? ");
         int n = scanner.nextInt();
         scanner.nextLine();
 
